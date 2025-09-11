@@ -75,6 +75,6 @@ Usage
 --------------------------------------
 Example Screenshot
 --------------------------------------
-(Add screenshot of GUI here)
+<img width="1909" height="1277" alt="GUIInterface" src="https://github.com/user-attachments/assets/ae0a1582-6263-4c48-b15c-4f9e02c2f3bc" />
 
 --------------------------------------
